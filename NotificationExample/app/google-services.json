@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282466333283",
+    "project_id": "notification-example-d9533",
+    "storage_bucket": "notification-example-d9533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282466333283:android:32c9b1f6c8732500553e56",
+        "android_client_info": {
+          "package_name": "com.blackbirds.notificationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282466333283-v1qp0dqlbe3b9bg4jnui284i45i3k0sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBszeOC48SwL-PhMObFW5UK-IZGHLsFNhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282466333283-v1qp0dqlbe3b9bg4jnui284i45i3k0sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationExample</string>
+    <string name="default_notification_channel_id">com.blackbirds.notificationexample</string>
+    <string name="fcm_message">Notification</string>
+</resources>
